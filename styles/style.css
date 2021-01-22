@@ -1,0 +1,62 @@
+html {
+  font-size: 12px; 
+  font-family: 'Potta One', cursive; /* this should be the rest of the output you got from Google fonts */
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: black;
+  text-shadow: 2px 2px 2px #4D4F50;
+}
+
+h2 {
+  font-size: 20px;
+  color: #4D4F50;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 1.2;
+  letter-spacing: 1px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+html {
+  background-color: #D7EBF3;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #E9C539;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+  vertical-align: center;
+}
+
+img {
+  width: 225px ;
+  display: block;
+  margin: 0 auto;
+  border: 3px solid black;
+}
+
+a {
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+  color: purple;
+}
+
+/*comments on fonts and other styles*/
+/*<link rel="preconnect" href="https://fonts.gstatic.com"> 
+<link href="https://fonts.googleapis.com/css2?family=Potta+One&display=swap" rel="stylesheet">
+
+font-family: 'Potta One', cursive;
+
+<link rel="preconnect" href="https://fonts.gstatic.com"> 
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Potta+One&display=swap" rel="stylesheet">
+
+font-family: 'Montserrat', sans-serif;*/
