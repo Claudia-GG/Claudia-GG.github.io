@@ -1,0 +1,74 @@
+html {
+  font-size: 12px; 
+  font-family: 'Potta One', cursive; /* this should be the rest of the output you got from Google fonts */
+}
+
+h1 {
+  font-size: 40px;
+  text-align: left;
+  margin: 0;
+  padding: 20px 0;
+  color: black;
+}
+
+h2 {
+  font-size: 20px;
+  color: #4D4F50;
+}
+
+p, li {
+  width: 350px;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.2;
+  letter-spacing: 1px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+div {
+
+  font-size: 14px;
+  text-align: left;
+  margin: 0;
+  padding: 20px 0;
+  color: black;
+}
+
+p.lastResult {
+
+  font-size: 20px;
+  text-align: left;
+  margin: 0;
+  padding: 20px 0;
+  color: black;
+  font-family: 'Potta One', cursive; 
+}
+
+html {
+  background-color: black;
+  /*background-image: url("../images/labyrinth.jgp");*/
+}
+
+body {
+  width: 900px;
+  height: 600px;
+  margin: 100px auto;
+  /*background-color: #E9C539;*/
+  background-image: url("../images/labyrinth.png");
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+  /*vertical-align: center*/;
+}
+
+img {
+  width: 225px ;
+  display: block;
+  margin: 0 auto;
+  border: 3px solid black;
+}
+
+a {
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+  color: purple;
+}
